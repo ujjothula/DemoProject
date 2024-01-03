@@ -7,3 +7,5 @@ def f2(request):
     return HttpResponse("welcome")
     def f3(request):
     return HttpResponse("python")
+    def f4(request):
+    return HttpResponse("python")

@@ -4,4 +4,6 @@ from django.http import HttpResponse
 def f1(request):
     return HttpResponse("hello world")
 def f2(request):
-    return HttpResponse("hello world")
+    return HttpResponse("welcome")
+    def f3(request):
+    return HttpResponse("python")
